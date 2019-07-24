@@ -1,0 +1,34 @@
+Startup School 2019 Forum Post :
+"Need advice on who to target for interviews
+We have found an intense pain that is faced by teachers (teaching 8th-10th grade). But in order to solve that pain, the user of the solution would be students who may not have significant pain in order to use the solution. The person making the buying decision would be the parents.
+
+So we end up with three stake holders: Users: Students. Pain Solved of: Teachers. Buyer: Parents.
+
+Who should we talk to most/interview while building the solution?"
+
+Reply MSC 1:
+How did you validate your pain? The solution to your predicament, lies in there.
+
+Reply Company:
+We did interviews with a number of math teachers who teach class 8 to 10, and we have a unanimous feedback that they all face difficulties in teaching maths as a large majority students are weak in prerequisites of that year.
+
+However, to solve this, it would students who would be interacting with our product...who should we spend our most time with, and whose feedbacks we should value more, students or teachers?
+
+Reply MSC 2:
+Well, then you have answered your question itself.
+
+You are solving for the Teachers, then it is imperative that you focus all your energy on them. they are your primary customers.
+
+In today's world of education (in India), it's the teachers/schools decide everything. Parents merely complete the transaction, they are nothing more than payment processor. They have absolutely no stake in saying no to teacher's/school's recommendation.
+
+Students are the ones who would use your product, but they are your secondary customers.
+
+If teachers recommend your product (strongly), then parents have but no option, other than to get the transaction done for their wards.
+
+While you solve for the teachers, the usability is to be formulated based on students (which i believe is not s big problem, and can be iterated on).
+
+The primary problem is to get your product in the hands of your secondary customer, for which you need to focus only on your primary customer.
+
+THE IMPORTANCE OF WHERE: While the parents seem to be like the 'buyers' in the above scenario, the truth is far from it, at least in an Indian scenario. 
+While it is important to know for WHOM you are solving, it is also important to know for WHERE you are solving. 
+Cultures are different, societies are different, methods are different, and so as the 'madness' is different. What could work in one place,would not work in another.
